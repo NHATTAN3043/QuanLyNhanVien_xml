@@ -1,0 +1,10 @@
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\bin\Debug\QuanLyDanhSachNhanVien.exe.config
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\bin\Debug\QuanLyDanhSachNhanVien.exe
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\bin\Debug\QuanLyDanhSachNhanVien.pdb
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.csproj.AssemblyReference.cache
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.QLNHANVIEN.resources
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.Properties.Resources.resources
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.csproj.GenerateResource.cache
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.csproj.CoreCompileInputs.cache
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.exe
+E:\QuanLyDanhSachNhanVien\QuanLyDanhSachNhanVien\obj\Debug\QuanLyDanhSachNhanVien.pdb

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NhanViens>
+  <NhanVien>
+    <MaNhanVien>NV01</MaNhanVien>
+    <TenNhanVien>Nguyễn Nhật Tân</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Quảng Nam</DiaChi>
+    <SDT>0923654789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV02</MaNhanVien>
+    <TenNhanVien>Lê Văn Sỹ</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Quảng Trị</DiaChi>
+    <SDT>0123654798</SDT>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV03</MaNhanVien>
+    <TenNhanVien>Nguyễn Đức Truyền</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Quảng Trị</DiaChi>
+    <SDT>0323654789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV04</MaNhanVien>
+    <TenNhanVien>Nguyễn Huy</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Lâm Đồng</DiaChi>
+    <SDT>0733654789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV05</MaNhanVien>
+    <TenNhanVien>Phạm Anh Huy</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>0353654789</SDT>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV06</MaNhanVien>
+    <TenNhanVien>Lê Văn Sỹ</TenNhanVien>
+    <GioiTinh>Nam</GioiTinh>
+    <DiaChi>Quảng Trị</DiaChi>
+    <SDT>0123654798</SDT>
+  </NhanVien>
+</NhanViens>
